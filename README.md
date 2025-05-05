@@ -1,4 +1,4 @@
-# Individual Course Reflection  
+# Final Project Package
 **Name:** Zain Khalid  
 **Course:** CSC431 - Introduction to Software Engineering  
 **Professor:** Dr. Hien Nguyen  
