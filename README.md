@@ -3,8 +3,8 @@
 **Course:** CSC431 - Introduction to Software Engineering  
 **Professor:** Dr. Hien Nguyen  
 **Submission Title:** Final Course Reflection  
-**Group #:** 3
-**Project Title** AGN Database
+**Group #:** 3 
+**Project Title:** AGN Database
 
 ---
 
